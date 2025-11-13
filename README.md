@@ -28,6 +28,7 @@ An end-to-end football video analysis system for detecting, tracking, and assign
 ```bash
 git clone https://github.com/ELHALOSE/Football-Player-Tracking.git
 cd Football-Player-Tracking
+```
 
 2. install the main dependencies directly:
 ```bash
@@ -35,6 +36,5 @@ pip install ultralytics roboflow deep_sort_realtime supervision easyocr scikit-l
 ```
 
 ## Result
-[![Annotated Video](screenshot.png)](output_tracked_colored.mp4)
+[![Annotated Video](screenshot.png)](CV_Task.mkv)
 
-ذذذ
