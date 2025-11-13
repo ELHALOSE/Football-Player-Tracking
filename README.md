@@ -36,5 +36,5 @@ pip install ultralytics roboflow deep_sort_realtime supervision easyocr scikit-l
 ```
 
 ## Result
-[![Annotated Video](screenshot.png)](CV_Task.mkv)
+[![Annotated Video]](output_tracked_colored.mp4)
 
