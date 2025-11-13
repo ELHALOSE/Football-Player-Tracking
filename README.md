@@ -35,6 +35,4 @@ cd Football-Player-Tracking
 pip install ultralytics roboflow deep_sort_realtime supervision easyocr scikit-learn tqdm opencv-python matplotlib
 ```
 
-## Result
-[![Annotated Video]](output_tracked_colored.mp4)
 
